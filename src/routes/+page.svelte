@@ -21,5 +21,5 @@
 </div>
 
 <div class="absolute right-0 bottom-0 w-[100vw]">
-  <p class="text-right p-[2vw] text-lg">credit to: <a class="text-orange-500 italic text-xl" href="https://whatthecommit.com/{message?.hash}">What the font</a></p>
+  <p class="text-right p-[2vw] text-lg">credit to: <a class="text-orange-500 italic text-xl" href="https://whatthecommit.com/{message?.hash}">What the commit</a></p>
 </div>
